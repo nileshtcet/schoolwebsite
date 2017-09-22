@@ -1,0 +1,89 @@
+.customDiv
+{
+	margin:3px;
+	min-height: 300px;
+	background-color:silver;
+	text-align:center;
+	font-size: large;
+}
+.mainDiv
+{
+	margin:3px;
+	min-height: 250px;
+	background-color:#bfbff2;
+	text-align:center;
+	font-size: large;
+}
+.logo
+{
+	margin:3px;
+	min-height: 50px;
+	background-color:#fff;
+	text-align:center;
+	font-size: large;
+	padding-left: 35px;
+}
+.nav1
+{
+	margin:3px;
+	min-height: 10px;
+	background-color:#FFF;
+	text-align:center;
+	font-size: large;
+}
+.sc
+{
+	margin:3px;
+	min-height: 125px;
+	background-color:#bfbff2;
+	text-align:center;
+	font-size: large;
+}
+.link
+{
+	margin:3px;
+	padding-top:25px;
+	min-height: 75px;
+	background-color:#0c3f11;
+	text-align:center;
+	font-size: large;
+	color:white;
+}
+.navbar
+{
+	position:sticky;
+}
+.ssc
+{
+	margin:10px;
+	height:30px;
+	width:100%;
+	position: absolute;
+	left: 0;
+	right:0;
+	background-color:#0c3f11;
+	text-align:center;
+	font-size: large;
+	color:white;
+}
+.ssc img
+{
+	float:right;
+	margin-right: 150px;
+}
+#r img
+{
+	height:450px;
+	width:100%;
+}
+#t a
+{
+	color:#000000;
+}
+.col-md-12 marquee
+{
+	height:30px;
+	font-size: 30px;
+	background-color:;
+	padding-bottom: 5px;
+}
